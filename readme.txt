@@ -24,4 +24,4 @@ The sample was adapted from the DxScan sample with a minimal amount of effort
 expended to hook in the scene-scanning code.
 
 If you have questions or comments or wish to point out flaws in the scene scanning code, send email to
-ashleytate@gmail.com. The scene-scanning strategy is discussed further at http://coditate.blogspot.com
+ashleytate@gmail.com. The scene-scanning strategy is discussed further at http://coditate.blogspot.com/2008/05/video-scene-detection-with.html
